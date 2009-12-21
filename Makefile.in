@@ -1,0 +1,38 @@
+# The top-level Makefile that is used to build the PaySwarm specification
+# documents.
+#
+# Author: Manu Sporny
+.PHONY: help
+
+BUILD_DIR := build
+CONFIG_DIR := configs
+DIST_DIR := dist
+SOURCE_FILES := $(wildcard build/*)
+CONFIGS := $(wildcard ${CONFIG_DIR}/*.conf)
+SPEC_SPLIT_STAMP := ${BUILD_DIR}/spec-split.stamp
+ISSUE_ANNOTATIONS := @ISSUE_ANNOTATIONS@
+SPECS := $(patsubst ${CONFIG_DIR}/%.conf, ${DIST_DIR}/%.html, $(CONFIGS))
+
+help:
+	@echo "Commands that you can use to build the various PaySwarming specification documents."
+	@echo ""
+	@$(foreach spec,$(SPECS), echo " make $(spec)" &&) true
+	@echo " make clean - Cleans all of the build files"
+
+${BUILD_DIR} ${DIST_DIR}:
+	@mkdir -p $@
+
+$(SPECS): ${BUILD_DIR} ${DIST_DIR}
+	@echo "Building $(@F) specification..."
+	@echo "Joining microsections into $(@F) specification..."
+	@./bin/microjoin.py -d ${BUILD_DIR} -o tempspec-$(@F) ${CONFIG_DIR}/$(subst .html,.conf,$(@F))
+	@echo "Generating final document via Anolis (this may take 2-3 minutes)..."
+	@@ANOLIS@ @ANOLIS_FLAGS@ ${BUILD_DIR}/tempspec-$(@F) $@
+	@sed -i "s/@SPEC_NAME@/$(@F)/g" $@
+	-@tidy -m -i -w 78 -ashtml $@
+	@echo "$(@F) spec written to: $@"
+
+clean:
+	@echo "Cleaning all build files and directories..."
+	@rm -f *~
+	@rm -rf ${BUILD_DIR} ${DIST_DIR}

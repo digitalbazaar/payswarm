@@ -10,7 +10,6 @@ DIST_DIR := dist
 SOURCE_FILES := $(wildcard build/*)
 CONFIGS := $(wildcard ${CONFIG_DIR}/*.conf)
 SPEC_SPLIT_STAMP := ${BUILD_DIR}/spec-split.stamp
-ISSUE_ANNOTATIONS := @ISSUE_ANNOTATIONS@
 SPECS := $(patsubst ${CONFIG_DIR}/%.conf, ${DIST_DIR}/%.html, $(CONFIGS))
 
 help:
@@ -29,7 +28,7 @@ $(SPECS): ${BUILD_DIR} ${DIST_DIR}
 	@echo "Generating final document via Anolis (this may take 2-3 minutes)..."
 	@@ANOLIS@ @ANOLIS_FLAGS@ ${BUILD_DIR}/tempspec-$(@F) $@
 	@sed -i "s/@SPEC_NAME@/$(@F)/g" $@
-	-@tidy -m -i -w 78 -ashtml $@
+	-@tidy -q -m -i -w 78 -ashtml $@
 	@echo "$(@F) spec written to: $@"
 
 clean:

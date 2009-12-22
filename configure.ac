@@ -10,10 +10,8 @@ AC_CONFIG_AUX_DIR(setup)
 ANOLIS=`pwd`/utils/anolis
 AC_CHECK_PROGS(WGET, wget /usr/bin/wget /usr/local/bin/wget, [not found], $PATH)
 
-ISSUE_ANNOTATIONS=build/issue-annotations.xml
-
 # Setup the flags needed for Anolis
-ANOLIS_FLAGS="--w3c-compat-xref-a-placement --parser=lxml.html --output-encoding=us-ascii --allow-duplicate-dfns --annotations=$ISSUE_ANNOTATIONS --annotate-w3c-issues"
+ANOLIS_FLAGS="--w3c-compat-xref-a-placement --parser=lxml.html --output-encoding=us-ascii --allow-duplicate-dfns"
 AC_SUBST(ANOLIS_FLAGS)
 
 # Generate the printable date string
@@ -44,7 +42,7 @@ fi
 # Generating files
 AC_CONFIG_FILES([
 	Makefile
-	headers/header-w3c-msporny
+	headers/header-w3c-payswarm-use-cases
 ])
 
 AC_OUTPUT

@@ -1,0 +1,61 @@
+<h2>Introduction</h2>
+
+<p>
+Digital content piracy has been a significant disruption to the operation
+of the Web for over a decade. While this is partially due to a number of factors
+that are outside of the control of standards bodies, there remains one
+key oversight that the standards organizations could address that would 
+enable new business models via the Web while reducing the incentive to
+illegally disseminate digital files. If Alice has an MP3 song that she would 
+like to give Bob, there should be a simple mechanism to enable the legal 
+duplication of that file from Alice to Bob. There should be a standard 
+mechanism for the legal exchange of commercially viable digital content.
+</p>
+
+<p>
+At present, digital media sales on the Web is largely a producer to
+consumer model. Typically, sites like Apple iTunes, Amazon Music, Netflix,
+the Microsoft Zune store and other digital retailers create proprietary,
+Web-based store fronts to sell digital products to their customers. During the
+product sale, the item is either wrapped in Digital Rights Management
+technologies in an attempt to curb piracy or restrictively licensed only to the
+individual purchasing the digital good. This is strictly a 
+corporation-to-consumer experience.
+</p>
+
+<p>
+There currently is no secondary market for digital content sales due to
+the nature of digital media - reproducing a digital file is incredibly
+fast, cheap and easy. This fact has lead to a great amount of digital
+piracy, notably by peer-to-peer network technology such as Napster,
+BearShare, Morpheus, Gnutella, Kazaa and BitTorrent. While iTunes has
+claimed to make as many as 435,164 video sales per day through their
+store, the number of video downloads per day over Mininova, one of the
+largest BitTorrent networks (2008), approach close to 4,975,075 downloads per
+day. Close to ten times as much video traffic is served through a single
+BitTorrent community versus the number two digital video sales service
+in the world.
+</p>
+
+<p>
+While it is still fairly unknown how much DRM, industry tactics, value
+proposition, platform access, file formats, convenience and digital
+kleptomania contribute to piracy - it can be said that each is a contributor
+to piracy in todays digital media ecosystem. 
+
+By addressing some of the use cases outlined in this document, we may
+be able to address the following key areas that are currently overlooked by
+the major players: value proposition, platform access, file formats,
+and convenience. The end-goal is to create a standards-based peer-to-peer 
+network, driven by open, flexible standards, that allow customers to help 
+artists, production companies and creators of content to distribute digital 
+goods in exchange for financial compensation. Just as physical storefronts
+help to distribute products on behalf of their manufacturers, digital
+storefonts can help to distribute content on behalf of their creators.
+</p>
+
+<p>
+Providing a standard mechanism for web browsers to exchange digital goods
+in exchange for monetary compensation would provide a much needed core
+feature of the Web that has been a demonstrated need for over a decade.
+</p>

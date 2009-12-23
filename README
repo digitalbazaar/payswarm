@@ -1,7 +1,63 @@
-Introduction
+Summary 
+-------
+
+The PaySwarm Project is creating a standard mechanism for purchasing
+and re-selling digital goods online.
+
+
+Introduction 
 ------------
 
-The PaySwarm Project is creating a standard mechanism for purchasing and 
-re-selling digital goods online.
+Electronic commerce sales for the 2008 fiscal year in the USA was roughly
+$204 billion dollars. The vast majority of these sales were performed
+using non-interoperable shopping cart software, credit card processing
+software and many layers of unnecessary, proprietary protocols for
+exchanging information related to payments and transaction processing
+that simultaneously ignore the fundamental architecture of the Web.
 
+The rise of the sale of digital goods online and the lack of a standard
+protocol for listing and selling digital goods further demonstrates
+a standards need that is not currently being met. The Web has changed
+the way distribution of digitizable goods occurs. For example, instead
+of receiving photographs from a photographer, photo proofs are often
+now uploaded to a website. Physical prints are often secondary and are
+purchased through a variety of photo printing services. Music, books
+and video are among the media that are transitioning to a variety of
+digital distribution models. The common thread among the sale of all
+of these digital goods is the transaction mechanism that is currently
+used, or rather, the lack of a web standard for transacting digital
+goods online. Ideally, our web browsers could handle the acquisition of
+digital goods just as they handle the acquisition of digital files from
+remote websites.
+
+This unmet need has resulted in a variety of negative market effects, most
+notably with regard to the distribution of digital music. The wide-spread
+failure of Digital Rights Management and the inability for user agents
+to provide legal downloads as a first class citizen have created an
+environment that places corporation and customer against one another
+when they could be working together to legally distribute digital content.
+
+This document outlines a set of scenarios and use cases that should be
+addressed by standardized technologies for transacting digital goods
+online. This document should be used to influence the design direction
+for the PaySwarm APIs, any related browser technology and the overall
+environment for the transaction of digital goods in exchange for monetary
+compensation on the World Wide Web.
+
+Prevailing digital content publishing practices for the past decade should
+be taken into account when influencing the design direction of the set of
+standards that will be published as a part of this work activity. Special
+attention should be given to defining very clear conformance criteria
+for user agents in an effort to ensure interoperability.
+
+Contributing
+------------
+
+This is a very experimental project and has no status as a standards-track 
+endeavor at this time. While it is very early in the development of this 
+system, all feedback is welcome.
+
+Browsable version-control record of all changes:
+Github change record: http://github.com/digitalbazaar/payswarm/tree/
+Raw Git interface: git clone git://github.com/digitalbazaar/payswarm.git
 

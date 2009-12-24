@@ -1,0 +1,22 @@
+<h2>Multicast License Acquisition</h2>
+
+<p>
+The Association of Science Journals Conference would like to present a series of
+live keynotes by luminaries in their respective fields. The presentation
+would be open to conference attendees or those that pay for a virtual
+day pass for the conference. The license could be purchased separately and
+then could be used to access a number of multicast sources that play at
+different times.
+</p>
+
+<h3>Requirements</h3>
+
+<ul>
+<li>The system must be able to distinguish between licenses and contracts
+for data delivery. One should be able to purchase the license and then
+have the option of choosing their download source. Content licenses
+and data delivery contract should be able to be negotiated separately.</li>
+<li>Licenses should be used to get access to data streams. Payment for
+licenses and payment for data should be separate concerns.</li>
+<li>Accessing payment-based multicast streams should be possible with whatever technology solution is created.</li>
+</ul>

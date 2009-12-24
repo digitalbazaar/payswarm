@@ -1,0 +1,17 @@
+<h2>Price Negotiation</h2>
+
+<p>
+Gregor runs a fairly active high-definition movie download site. 
+His data transmission prices are high during the day and low during the 
+night. He would like to give his customers the option to negotiate for
+lower download prices if they download their movies during the night
+time. He would also like to reserve the right to refuse a contract
+re-negotation attempt.
+</p>
+
+<h3>Requirements</h3>
+
+<ul>
+<li>The system should allow buyers and sellers to negotiate the 
+data download prices associated with a particular download.</li>
+</ul>

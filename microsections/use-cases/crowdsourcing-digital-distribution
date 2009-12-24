@@ -11,3 +11,11 @@ payment on her behalf. She would like to give some of the proceeds of each
 sale to those that will help her distribute her documentary.
 </p>
 
+<h3>Requirements</h3>
+
+<ul>
+<li>The system must be able to swarm file downloads from multiple sources.</li>
+<li>Payment must be able to be divvied out among thousands of download
+sources.</li>
+<li>Payment must be allowed to be made to arbitrary accounts on the network.</li>
+</ul>

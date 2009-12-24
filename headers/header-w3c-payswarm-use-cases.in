@@ -256,10 +256,12 @@ criteria for user agents in an effort to ensure interoperability.
 
   <p>This is a very experimental document and has no status as a standards-track document at this time. While it is very early in the development of this document, all feedback is welcome.</p>
 
+  <p>
    <dt>Browsable version-control record of all changes:</dt>
    <dd>Github change record: <a href="http://github.com/digitalbazaar/payswarm/tree/">http://github.com/digitalbazaar/payswarm/tree/</a></dd>
    <dd>Raw Git interface: <code>git clone git://github.com/digitalbazaar/payswarm.git</code></dd>
   </dl>
+  </p>
 
   <p>
   This specification is the @DATE_STRING@ Editor's Draft.

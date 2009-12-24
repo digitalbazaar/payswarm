@@ -11,5 +11,6 @@ program.
 <h3>Requirements</h3>
 
 <ul>
-<li></li>
+<li>A binary stream processing component should be allowed as a part of the purchase process in order to allow custom binaries to be transacted on the network. </li>
+<li>The binary stream processor should be able to be downloaded and executed by all components of the PaySwarm network.</li>
 </ul>

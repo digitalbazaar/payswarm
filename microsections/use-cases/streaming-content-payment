@@ -11,5 +11,6 @@ Arbitration Panel to ensure she is legally compliant at all times.
 <h3>Requirements</h3>
 
 <ul>
-<li></li>
+<li>Payment must be able to be associated with a section of a stream of data. Payment should be allowed to be associated with a particular number of bytes or temporal time frame.</li>
+<li>Small fractions of whole currency amounts should be allowed in order to ensure accurate metering and payment recouping for content streams.</li>
 </ul>

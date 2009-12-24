@@ -1,4 +1,4 @@
-<h2>Charitable Micropayments</h2>
+<h2>Batching Micropayments</h2>
 
 <p>
 Penelope has completed her fourth book of photography. While she would like 
@@ -11,5 +11,6 @@ ability to contribute to their favorite charities.
 <h3>Requirements</h3>
 
 <ul>
-<li></li>
+<li>Network participants must be allowed to add arbitrary accounts as
+payees for transactions.</li>
 </ul>

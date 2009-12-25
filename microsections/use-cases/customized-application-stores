@@ -1,11 +1,26 @@
-<h2>Customized Application Store</h2>
+<h2>Customized Application Stores</h2>
 
 <p>
-Werner would like to provide his application to a broad audience while
-ensuring that it is uniquely customized to each of his customers. He has
+Werner owns an independent software development company. He would like to 
+provide his software application to a broad audience while
+ensuring that it is uniquely tailored to each of his customers. He has
 experience writing code and would like every application package that
 is distributed to have a unique customer key embedded in the installation
-program.
+program for the purposes of providing customer support to those that 
+have received software keys. The purchaser's information could also
+be filled out automatically in the software registration screen for the
+software at the time of purchase.
+</p>
+
+<p>
+Having a binary stream processor would enable customized data files
+to be sold on the network. The most difficult aspect of the binary stream
+processor would be ensuring that the stream processor's ABI was compatible
+across major processing architectures as well as remotely executable. There
+are a number of security concerns that are also related with executing
+arbitrary code to mutate data streams. It may be required that binary
+stream processors must undergo a code-review before they are allowed on
+the network.
 </p>
 
 <h3>Requirements</h3>
@@ -13,4 +28,5 @@ program.
 <ul>
 <li>A binary stream processing component should be allowed as a part of the purchase process in order to allow custom binaries to be transacted on the network. </li>
 <li>The binary stream processor should be able to be downloaded and executed by all components of the PaySwarm network.</li>
+<li>Digital signatures and binary verification may be required for binary stream processors.</li>
 </ul>

@@ -3,12 +3,19 @@
 <p>
 Lars would like to ensure that the purchase process for a digital good is 
 streamlined as much as possible into the web browser that he has created. When
-somebody uses his web browser, he'd like a "Buy" button with the title of
+somebody uses the web browser, he would like to display a "Buy" button in
+the address bar. The media details such as the title of
 the work, the price and the details required to perform a swarming purchase
-to be lifted from the web page. The purchase process would be as simple as
-the buyer clicking the Buy button and watching a download progress dialog
-appear on the screen.
+would be lifted from the web page.
 </p>
+
+<p>
+The purchase process would be as simple as the buyer clicking the Buy button 
+and watching a download progress dialog appear on the screen. Account and
+payment details could be stored in the web browser to ease the purchase
+process. Not bothering the person browsing for payment details would be 
+especially useful in scenarios where very small payments were needed to 
+access content.</p>
 
 <h3>Requirements</h3>
 

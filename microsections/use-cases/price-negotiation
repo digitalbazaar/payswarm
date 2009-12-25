@@ -2,11 +2,20 @@
 
 <p>
 Gregor runs a fairly active high-definition movie download site. 
-His data transmission prices are high during the day and low during the 
-night. He would like to give his customers the option to negotiate for
-lower download prices if they download their movies during the night
-time. He would also like to reserve the right to refuse a contract
-re-negotation attempt.
+His data transmission prices are high during peak hours and low during 
+off-peak hours. He would like to give his customers the option to negotiate for
+lower download prices if they download their movies during the off-peak
+times. He would also like to reserve the right to refuse a contract
+re-negotation attempt if he has not made a pre-set sales quota and even
+raise his prices if it would make sense for his business.
+</p>
+
+<p>
+The ability to change prices based on market demand would enable
+a more dynamic marketplace, leading to more competition between download
+providers. Giving buyers the ability to re-negotiate terms of sale would
+not only give them a sense of empowerment, but could eliminate bad
+pricing behavior on the network, leading to overall market efficiencies.
 </p>
 
 <h3>Requirements</h3>

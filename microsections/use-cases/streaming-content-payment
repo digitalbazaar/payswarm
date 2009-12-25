@@ -2,10 +2,25 @@
 
 <p>
 Tellulah is a DJ and would like to setup a non-profit Internet radio 
-station to stream the Weekly Top 40 songs along with a mix of 
+station to stream Weekly Top 40 songs along with a mix of 
 independent music. She would like to cover her expenses as well as
 the standard per-song ephemeral broadcasting fee set by the US Copyright
-Arbitration Panel to ensure she is legally compliant at all times.
+Arbitration Panel to ensure she is legally compliant at all times. Registering
+and tracking royalties can be a very daunting and time consuming process.
+A mechanism that reduces the burden of legal compliance could drive more
+stations to come online.
+</p>
+
+<p>
+Online radio broadcasters are also presently limited in their ability to grow
+their stations due to the ephemeral broadcasting royalties that must be
+paid on a per person/per song basis. Running these stations make it
+difficult to collect, track and distribute royalties in a way that makes
+it easy to integrate into the web browser. Often, donating or signing up
+to a single download provider can be more trouble than it is worth. If
+there was a universal mechanism to pay very small amounts for data streams 
+on the Web, new legal avenues for distributing content legally would be 
+enabled.
 </p>
 
 <h3>Requirements</h3>

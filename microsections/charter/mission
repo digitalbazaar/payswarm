@@ -2,10 +2,18 @@
             
             <p>The <strong>mission</strong> of the <a href="">PaySwarm Working Group</a>
             <span class="atat">@@@Link to be provided@@@</span>
-            is to enable standardized mechanisms for the exchange of digital content in return for monetary compensation. 
+            is to standardize mechanisms for the legal transfer of commercialized 
+            digital content. The group plans to enable new Web-based business 
+            models by specifying methods of interaction between user agents 
+            and web servers to exchange digital goods and ensure the subequent 
+            distribution of monetary compensation to the content distributors 
+            and rights holders.
+            </p>
 
-The Working Group will publish W3C Recommendations to successfully accomplish the PaySwarm Use Cases. 
-
+            <p>
+The Working Group will publish W3C Recommendations to enable the execution
+of the <a href="payswarm-use-cases.html">PaySwarm Use Cases</a> in user agents and web servers. The group will also
+document discoveries and future features.
             </p>
             
             <div class="noprint">

@@ -8,18 +8,26 @@ BUILD_DIR := build
 CONFIG_DIR := configs
 DIST_DIR := dist
 SOURCE_FILES := $(wildcard build/*)
-CONFIGS := $(wildcard ${CONFIG_DIR}/*.conf)
-SPEC_SPLIT_STAMP := ${BUILD_DIR}/spec-split.stamp
+CONFIGS := ${CONFIG_DIR}/payswarm-use-cases.conf
 SPECS := $(patsubst ${CONFIG_DIR}/%.conf, ${DIST_DIR}/%.html, $(CONFIGS))
+NON_ANOLIS_SPECS := ${DIST_DIR}/payswarm-wg-charter.html
 
 help:
 	@echo "Commands that you can use to build the various PaySwarming specification documents."
 	@echo ""
-	@$(foreach spec,$(SPECS), echo " make $(spec)" &&) true
+	@$(foreach spec,$(SPECS) $(NON_ANOLIS_SPECS), echo " make $(spec)" &&) true
 	@echo " make clean - Cleans all of the build files"
 
 ${BUILD_DIR} ${DIST_DIR}:
 	@mkdir -p $@
+
+$(NON_ANOLIS_SPECS): ${BUILD_DIR} ${DIST_DIR}
+	@echo "Building $(@F) specification..."
+	@echo "Joining microsections into $(@F) specification..."
+	@./bin/microjoin.py -d ${DIST_DIR} -o $(@F) ${CONFIG_DIR}/$(subst .html,.conf,$(@F))
+	@sed -i "s/@SPEC_NAME@/$(@F)/g" $@
+	-@tidy -q -m -i -w 78 -ashtml $@
+	@echo "$(@F) spec written to: $@"
 
 $(SPECS): ${BUILD_DIR} ${DIST_DIR}
 	@echo "Building $(@F) specification..."

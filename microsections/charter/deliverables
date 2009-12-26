@@ -1,6 +1,10 @@
                 <h2 id="deliverables">Deliverables </h2>
                 <p>(The titles of the documents are indicative only)</p>
                 <ul>
-                    <li><strong>PaySwarm 1.0 API, <em>Recommendation</em></strong>:
-                    This document will define a standard API for buying and selling digital content via user agents and web servers.</li>
+                    <li><strong>PaySwarm 1.0 Web API, <em>Recommendation</em></strong>:
+                    This document will define a standard REST-based API for buying and selling digital content via user agents and web servers.</li>
+                    <li><strong>Website API Discovery, <em>Recommendation</em></strong>:
+                    This document will define a standard mechanism for using W3C semantic web technologies for the automatic discovery of Website APIs.</li>
+                    <li><strong>PaySwarm 2.0 Design Considerations, <em>Note</em></strong>:
+                    This document will outline future work for the PaySwarm Working Group and may include specifics on identity management, license expression and future features that were identified during the PaySwarm 1.0 API work.</li>
                 </ul>

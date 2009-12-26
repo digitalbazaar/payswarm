@@ -4,12 +4,10 @@
             <a href="/Consortium/Process" shape="rect">Process Document</a>. In the
             event of a conflict between this document or the provisions of any charter
             and the W3C Process, the W3C Process shall take precedence. </p>
-            <p>Please also see the <a href="http://www.w3.org/2003/12/swa/dawg-charter.html">previous charter</a>
-            for this group. </p>
             <hr />
             <address>Doug Schepers, W3C staff, with input from Manu Sporny</address>
-            <p class="copyright"><a rel="Copyright" href="/Consortium/Legal/ipr-notice#Copyright" >Copyright</a>© 2009
-            <a href="/" shape="rect">W3C</a>® (<a href="http://www.csail.mit.edu/" shape="rect">MIT</a> ,
+            <p class="copyright"><a rel="Copyright" href="/Consortium/Legal/ipr-notice#Copyright" >Copyright</a>&copy; 2009
+            <a href="/" shape="rect">W3C</a>&reg; (<a href="http://www.csail.mit.edu/" shape="rect">MIT</a> ,
             <a href="http://www.ercim.org/" shape="rect">ERCIM</a>, <a href="http://www.keio.ac.jp/" shape="rect">Keio</a>),
             All Rights Reserved.</p>
             <p>$Date$</p>

@@ -2,7 +2,7 @@
                 <table class="roadmap" width="80%">
                     <tfoot>
                         <tr>
-                            <td colspan="6" rowspan="1">Note: Dates are based on a charter starting in July 2010.
+                            <td colspan="6" rowspan="1">Note: Dates are based on a charter starting in August 2010.
                             The group will document significant changes from this initial
                             schedule on the group home page. </td>
                         </tr>
@@ -17,12 +17,28 @@
                             <th rowspan="1" colspan="1"><acronym title="Recommendation">Rec</acronym></th>
                         </tr>
                         <tr>
-                            <th rowspan="1" colspan="1">RDFa 1.1 API</th>
+                            <th rowspan="1" colspan="1">PaySwarm 1.0 Web API</th>
                             <td class="WD1" rowspan="1" colspan="1">August 2010 </td>
                             <td class="LC" rowspan="1" colspan="1">April 2010 </td>
                             <td class="CR" rowspan="1" colspan="1">May 2011</td>
                             <td class="PR" rowspan="1" colspan="1">June 2011</td>
                             <td class="REC" rowspan="1" colspan="1">July 2011</td>
+                        </tr>
+                        <tr>
+                            <th rowspan="1" colspan="1">Website API Discovery</th>
+                            <td class="WD1" rowspan="1" colspan="1">August 2010 </td>
+                            <td class="LC" rowspan="1" colspan="1">January 2010 </td>
+                            <td class="CR" rowspan="1" colspan="1">February 2011</td>
+                            <td class="PR" rowspan="1" colspan="1">March 2011</td>
+                            <td class="REC" rowspan="1" colspan="1">April 2011</td>
+                        </tr>
+                        <tr>
+                            <th rowspan="1" colspan="1">PaySwarm 2.0 Design Considerations</th>
+                            <td class="WD1" rowspan="1" colspan="1">August 2010 </td>
+                            <td class="LC" rowspan="1" colspan="1">July 2011</td>
+                            <td class="CR" rowspan="1" colspan="1">N/A</td>
+                            <td class="PR" rowspan="1" colspan="1">N/A</td>
+                            <td class="REC" rowspan="1" colspan="1">N/A</td>
                         </tr>
                  </tbody>
                 </table>

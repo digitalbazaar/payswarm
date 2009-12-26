@@ -1,7 +1,9 @@
                 <h3>Success Criteria</h3>
                 <ul>
-                    <li>PaySwarm 1.0 API, implementable both by browsers and web servers.</li>
-                    <li>Up-to-date testing environment for PaySwarm 1.0 API.</li>
+                    <li>PaySwarm 1.0 Web API published as Recommendation with two complete, interoperable implementations.</li>
+                    <li>Test Harness for PaySwarm 1.0 Web API.</li>
+                    <li>Specification and implementation of Web API Discovery mechanism for REST-based web APIs</li>
+                    <li>Working Group discoveries and future features documented as W3C Note</li>
                 </ul>
                 
                 <h3>Out of Scope</h3>                

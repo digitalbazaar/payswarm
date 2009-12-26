@@ -1,0 +1,11 @@
+                <h3>Success Criteria</h3>
+                <ul>
+                    <li>PaySwarm 1.0 API, implementable both by browsers and web servers.</li>
+                    <li>Up-to-date testing environment for PaySwarm 1.0 API.</li>
+                </ul>
+                
+                <h3>Out of Scope</h3>                
+                <p>This Working Group does not intend to solve the parallel problem of online identity management, website session management, and public/private key generation.</p>
+<p>Similarly, this Working Group is not intended to solve the parallel problem of license rights metadata expression.</p> 
+            </div>
+            <div>

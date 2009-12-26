@@ -1,0 +1,11 @@
+                <h3 id="timeline">Timeline View Summary</h3>
+                <ul>
+                    <li>T: First teleconference</li>
+                    <li>T+1: First Public Working Draft for the Recommendation track documents</li>
+                    <li>T+9: Last Call Working Draft for the Recommendation track documents</li>
+                    <li>T+10: Candidate Recommendation for the Recommendation track documents</li>
+                    <li>T+11: Publication of the PaySwarm 1.0 API</li>
+                </ul>
+            </div>
+            
+            <div class="dependencies">

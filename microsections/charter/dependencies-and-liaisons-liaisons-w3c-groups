@@ -1,0 +1,20 @@
+                <h4>W3C&nbsp;Groups</h4>
+                <dl>
+                    <dt><a href="http://www.w3.org/html/wg/">HTML Working Group</a></dt>
+                    <dd>To provide input on digital content, licensing, and payment metadata expression in the HTML5 and XHTML5 specifications.</dd>
+
+                    <dt><a href="http://www.w3.org/2008/webapps/">Web Applications Working Group</a></dt>
+                    <dd>To ensure that the API work around PaySwarming stays in line with the general
+                    Web Applications work.</dd>
+                    
+					<dt><a href="http://www.w3.org/2001/tag/">Technical Architecture Group (TAG)</a></dt>
+					<dd>To ensure that the PaySwarm transaction environment is in line with general Web Architecture Principles</dd>
+					
+                    <dt><a href="http://www.w3.org/2001/sw/CG/">Semantic Web Coordination Group</a></dt>
+                    <dd>To ensure that the development of PaySwarming metadata expression and the PaySwarm APIs are coordinated with other
+                    activities around the Semantic Web</dd>
+
+                    <dt><a href="http://www.w3.org/WAI/PF/">Protocols and Formats Working Group</a></dt>
+                    <dd>To ensure that PaySwarm APIs can serve the accessibility needs of Web users from all walks of life.</dd>                    
+                </dl>
+                

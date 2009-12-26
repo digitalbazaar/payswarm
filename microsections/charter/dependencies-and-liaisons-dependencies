@@ -1,0 +1,11 @@
+                <h3>Dependencies</h3>
+                <dl>                   
+                    
+                    <dt><a href="http://www.w3.org/International/">Internationalization Activity</a></dt>
+                    <dd>To ensure that all features introduced to PaySwarming are in line with the requirements of Internationalization
+                    on the Web.</dd>
+                    <dt><a href="http://www.w3.org/WAI/PF/">Protocols and Formats Working Group</a></dt>
+                    <dd>To ensure that all features introduced to the PaySwarm 1.0 API are in line with the requirements of Web Accessibility.</dd>
+
+                </dl>
+                

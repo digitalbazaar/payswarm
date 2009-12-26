@@ -49,6 +49,14 @@ def dashifyText(text):
 # @param tocItem the table of contents file name to write to.
 # @param text the text to write to the file.
 def writeTocItem(options, tocItem, text):
+    # Make sure there is a tocItem
+    i = 1
+    while(len(tocItem) < 1):
+        tempTocItem = "section-%i" % (i,)
+        tempFilename = os.path.join(options.outputDir, tempTocItem)
+        if(not os.path.exists(tempFilename)):
+            tocItem = tempTocItem
+
     # Dump the text buffer to the given TOC item
     tocItemFilename = os.path.join(options.outputDir, tocItem)
     tocItemFile = open(tocItemFilename, "w")

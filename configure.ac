@@ -44,6 +44,7 @@ AC_CONFIG_FILES([
 	Makefile
 	headers/header-w3c-payswarm-use-cases
 	headers/header-w3c-payswarm-web-api
+        headers/header-w3c-web-api-discovery
 ])
 
 AC_OUTPUT

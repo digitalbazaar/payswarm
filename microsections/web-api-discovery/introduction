@@ -1,0 +1,44 @@
+<h2>The Basic Idea</h2>
+
+<p>
+Using XHTML 1.1, HTML5 or XHTML5, one could use RDFa to express webservices
+that are available via a particular website.
+</p>
+
+<p>
+For example, if a website supported a standard messaging API, every page
+on the site could have the following piece of markup:
+</p>
+
+<pre>
+We support the &lt;a rel="webapi:services" href="services.html"&gt;Web Storage API&lt;/a&gt;.
+</pre>
+
+<p>The services.html document would be marked up with RDFa, generating triples 
+like the following:
+</p>
+
+<pre>
+   &lt;http://mysite.com/some/arbitary/path/api/sendmsg&gt;
+      &lt;http://w3.org/vocab/messaging-webapi#deliver-message&gt;
+         "POST" .
+</pre>
+
+<p>
+User agents could then use this to make specific calls to a website
+using a standardized Web API protocol. If this sounds much like
+SOAP/WSDL/WSIL/UDDI it is, but much, much less complex.
+</p>
+
+<p>
+Our experiences with SOAP/WSDL/WSIL and UDDI have been fairly awful.
+We needed a lightweight solution and settled on AJAX, REST and JSON for the 
+RPC stack. The switch resulted in a simpler implementation, less code and 
+an easier to understand Web API.
+</p>
+
+<p>
+One of the goals of this document is to make publishing Web APIs as simple
+and straightforward as possible, using tools that many are already familiar
+with using to create.
+</p>

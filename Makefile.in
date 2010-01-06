@@ -9,7 +9,8 @@ CONFIG_DIR := configs
 DIST_DIR := dist
 SOURCE_FILES := $(wildcard build/*)
 CONFIGS := ${CONFIG_DIR}/payswarm-use-cases.conf \
-           ${CONFIG_DIR}/payswarm-web-api.conf
+           ${CONFIG_DIR}/payswarm-web-api.conf \
+           ${CONFIG_DIR}/web-api-discovery.conf
 SPECS := $(patsubst ${CONFIG_DIR}/%.conf, ${DIST_DIR}/%.html, $(CONFIGS))
 NON_ANOLIS_SPECS := ${DIST_DIR}/payswarm-wg-charter.html
 

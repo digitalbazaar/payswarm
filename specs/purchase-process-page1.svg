@@ -243,8 +243,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="373.07207"
-     inkscape:cy="747.89423"
+     inkscape:cx="348.82883"
+     inkscape:cy="343.26346"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -285,7 +285,7 @@
          y="154.07648">A PaySwarm Purchase</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
        x="85.428558"
        y="325.21933"
        id="text2849"
@@ -296,29 +296,29 @@
          y="325.21933">PaySwarm Authority</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="570.42133"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="568.14203"
        y="326.64789"
        id="text2853"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2855"
-         x="570.42133"
+         x="568.14203"
          y="326.64789">Buyer</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="364.25281"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="361.89636"
        y="326.93359"
        id="text2857"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2859"
-         x="364.25281"
+         x="361.89636"
          y="326.93359">Seller</tspan></text>
     <g
        id="g3729"
-       transform="translate(-0.26563765,60)">
+       transform="translate(10.563464,60)">
       <path
          transform="translate(32.428571,-171.20924)"
          d="M 162.85714,382.14285 C 162.85714,397.52793 150.38508,410 135,410 c -15.38508,0 -27.85714,-12.47207 -27.85714,-27.85715 0,-15.38507 12.47206,-27.85714 27.85714,-27.85714 15.38508,0 27.85714,12.47207 27.85714,27.85714 z"
@@ -343,7 +343,7 @@
     </g>
     <g
        id="g3734"
-       transform="translate(0,60)">
+       transform="translate(-1.0754242,60)">
       <path
          transform="translate(252.42858,-170.06639)"
          d="M 162.85714,382.14285 C 162.85714,397.52793 150.38508,410 135,410 c -15.38508,0 -27.85714,-12.47207 -27.85714,-27.85715 0,-15.38507 12.47206,-27.85714 27.85714,-27.85714 15.38508,0 27.85714,12.47207 27.85714,27.85714 z"
@@ -425,7 +425,7 @@
          y="377.15625">The Objects</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
        x="133.96596"
        y="499.11975"
        id="text2849-6"
@@ -436,66 +436,66 @@
          y="499.11975">License</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="326.37445"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="322.30786"
        y="498.8385"
        id="text3823"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3825"
-         x="326.37445"
+         x="322.30786"
          y="498.8385">Contract</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="451.41855"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="449.27115"
        y="499.11975"
        id="text3827"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3829"
-         x="451.41855"
+         x="449.27115"
          y="499.11975">File</tspan><tspan
          sodipodi:role="line"
-         x="451.41855"
-         y="519.11975"
+         x="449.27115"
+         y="524.11975"
          id="tspan4231">Piece</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="255.1116"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="253.39488"
        y="498.8385"
        id="text3831"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3833"
-         x="255.1116"
+         x="253.39488"
          y="498.8385">Contract</tspan><tspan
          sodipodi:role="line"
-         x="255.1116"
-         y="518.8385"
+         x="253.39488"
+         y="523.8385"
          id="tspan4529">Section</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="529.3454"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="528.63708"
        y="498.62756"
        id="text3835"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3837"
-         x="529.3454"
+         x="528.63708"
          y="498.62756">Key</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="642.42853"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="640.1543"
        y="499.11975"
        id="text3839"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3841"
-         x="642.42853"
+         x="640.1543"
          y="499.11975">File</tspan></text>
     <text
        xml:space="preserve"
@@ -522,7 +522,7 @@
        id="path3868-9-3" />
     <g
        id="g4484"
-       transform="translate(76.39775,69.035082)">
+       transform="translate(80.720072,69.035082)">
       <rect
          ry="26"
          rx="0"
@@ -545,7 +545,8 @@
            sodipodi:role="line">L</tspan></text>
     </g>
     <g
-       id="g4241">
+       id="g4241"
+       transform="translate(2.3937225,0)">
       <rect
          ry="26"
          rx="0"
@@ -569,7 +570,7 @@
     </g>
     <g
        id="g4474"
-       transform="translate(-118.36138,65.139023)">
+       transform="translate(-116.35608,65.139023)">
       <rect
          ry="26"
          rx="0"
@@ -593,7 +594,7 @@
     </g>
     <g
        id="g4522"
-       transform="translate(-73.296698,71.803122)">
+       transform="translate(-74.499353,73.803122)">
       <rect
          rx="6"
          ry="8"
@@ -755,23 +756,24 @@
          y="981.362" /></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
        x="96"
        y="611.362"
-       id="text3247"><tspan
+       id="text3247"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="96"
          y="611.362"
-         style="font-size:14px"
+         style="font-size:16px;-inkscape-font-specification:Georgia;font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
          id="tspan3263">The PaySwarm Purchase process consists of the following steps, which are detailed </tspan><tspan
          sodipodi:role="line"
          x="96"
          y="628.862"
-         style="font-size:14px"
+         style="font-size:16px;-inkscape-font-specification:Georgia;font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
          id="tspan3340">further in this document.</tspan></text>
     <g
        id="g4201"
-       transform="translate(29,69.535265)">
+       transform="translate(35.658342,69.535265)">
       <rect
          ry="26"
          rx="0"
@@ -795,14 +797,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       x="72.835938"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
+       x="72.718887"
        y="499.11975"
        id="text2849-6-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2851-3-6"
-         x="72.835938"
+         x="72.718887"
          y="499.11975">Media</tspan></text>
   </g>
 </svg>

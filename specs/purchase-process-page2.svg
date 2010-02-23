@@ -687,7 +687,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.86286483"
      inkscape:cx="461.42162"
-     inkscape:cy="391.3353"
+     inkscape:cy="435.46665"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -811,22 +811,18 @@
     <text
        sodipodi:linespacing="100%"
        id="text4286"
-       y="129.13358"
-       x="255.91913"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       y="119.13358"
+       x="323.91913"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
        xml:space="preserve"><tspan
-         id="tspan7157"
-         y="129.13358"
-         x="258.14764"
-         sodipodi:role="line">1.1 The Buyer finds a machine-readable PaySwarm </tspan><tspan
-         id="tspan7345"
-         y="143.13358"
-         x="258.14764"
-         sodipodi:role="line">Media description on a Digital Content Store, </tspan><tspan
          id="tspan7373"
-         y="157.13358"
-         x="255.91913"
-         sodipodi:role="line">Blog, or other Website</tspan></text>
+         y="119.13358"
+         x="325.85663"
+         sodipodi:role="line">1.1 The Buyer finds a machine-readable PaySwarm  Media description </tspan><tspan
+         y="135.13358"
+         x="323.91913"
+         sodipodi:role="line"
+         id="tspan3528">on a Digital Content Store, Blog, or other Website</tspan></text>
     <path
        id="path4294"
        d="m 162.25849,194.35896 141.7713,0"
@@ -834,22 +830,18 @@
     <text
        sodipodi:linespacing="100%"
        id="text4286-8"
-       y="264.48331"
-       x="539.67346"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       y="274.48331"
+       x="505.67346"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
        xml:space="preserve"><tspan
-         y="264.48331"
-         x="541.90198"
+         y="274.48331"
+         x="507.61096"
          sodipodi:role="line"
-         id="tspan6998">1.2 The Buyer contacts the PaySwarm </tspan><tspan
-         y="278.48331"
-         x="539.67346"
+         id="tspan7004">1.2 The Buyer contacts the PaySwarm Authority </tspan><tspan
+         y="290.48331"
+         x="505.67346"
          sodipodi:role="line"
-         id="tspan7004">Authority for a License to associate</tspan><tspan
-         y="292.48331"
-         x="539.67346"
-         sodipodi:role="line"
-         id="tspan7218">with the Media</tspan></text>
+         id="tspan7218">for a License to associate with the Media</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.69999981;stroke-opacity:1;stroke-dasharray:none"
        d="m 60.618669,316.59896 622.857141,0"
@@ -913,22 +905,22 @@
     <text
        sodipodi:linespacing="100%"
        id="text4286-8-3-0"
-       y="382.0094"
-       x="237.78575"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       y="372.0094"
+       x="261.78577"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
        xml:space="preserve"><tspan
-         id="tspan7365-4-5"
-         y="382.0094"
-         x="237.78575"
-         sodipodi:role="line">2.1 The Buyer contacts the PaySwarm Authority,</tspan><tspan
-         y="396.0094"
-         x="237.78575"
+         y="372.0094"
+         x="263.72327"
          sodipodi:role="line"
-         id="tspan7565-4">and retrieves a list of Sellers selling the Media</tspan><tspan
-         y="410.0094"
-         x="237.78575"
+         id="tspan7565-4">2.1 The Buyer contacts the PaySwarm Authority, and </tspan><tspan
+         y="388.0094"
+         x="263.72327"
          sodipodi:role="line"
-         id="tspan8205">and License combination discovered previously.</tspan></text>
+         id="tspan8205">retrieves a list of Sellers selling the Media and </tspan><tspan
+         y="404.0094"
+         x="261.78577"
+         sodipodi:role="line"
+         id="tspan3536">License combination discovered previously.</tspan></text>
     <g
        id="g3734"
        transform="matrix(0.33333333,0,0,0.33333333,100.24867,419.50524)">
@@ -1082,26 +1074,22 @@
     <text
        sodipodi:linespacing="100%"
        id="text4286-8-3-0-2"
-       y="535.84998"
-       x="463.77713"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       y="549.84998"
+       x="433.77713"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
        xml:space="preserve"><tspan
-         y="535.84998"
-         x="463.77713"
-         sodipodi:role="line"
-         id="tspan8205-6">2.2 Contract Sections are prepared for each</tspan><tspan
          y="549.84998"
-         x="463.77713"
+         x="435.71463"
          sodipodi:role="line"
-         id="tspan8426">Seller. Buying preferences such as</tspan><tspan
-         y="563.84998"
-         x="463.77713"
+         id="tspan8430">2.2 Contract Sections are prepared for each Seller. Buying preferences </tspan><tspan
+         y="565.84998"
+         x="435.71463"
          sodipodi:role="line"
-         id="tspan8428">guaranteed download rate, maximum piece price,</tspan><tspan
-         y="577.84998"
-         x="463.77713"
+         id="tspan3548">such as guaranteed download rate, maximum piece price, and </tspan><tspan
+         y="581.84998"
+         x="433.77713"
          sodipodi:role="line"
-         id="tspan8430">and delivery time are noted in each Contract Section.</tspan></text>
+         id="tspan3550">delivery time are noted in each Contract Section.</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.69999981;stroke-opacity:1;stroke-dasharray:none"
        d="m 60.618672,599.4062 622.857138,0"
@@ -1111,7 +1099,7 @@
        d="m 382.9068,455.69024 141.7713,0"
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotS);marker-end:url(#TriangleOutM)" />
     <g
-       transform="translate(-460.2784,529.42485)"
+       transform="translate(-460.2784,545.42485)"
        id="g4277-1-8-1">
       <path
          transform="translate(459.71429,-170.78067)"
@@ -1137,7 +1125,7 @@
     </g>
     <g
        id="g3734-14"
-       transform="translate(198.99004,527.55164)">
+       transform="translate(198.99004,543.55164)">
       <path
          transform="translate(252.42858,-170.06639)"
          d="M 162.85714,382.14285 C 162.85714,397.52793 150.38508,410 135,410 c -15.38508,0 -27.85714,-12.47207 -27.85714,-27.85715 0,-15.38507 12.47206,-27.85714 27.85714,-27.85714 15.38508,0 27.85714,12.47207 27.85714,27.85714 z"
@@ -1162,7 +1150,7 @@
     </g>
     <g
        id="g4474"
-       transform="translate(-15.367389,347.74272)">
+       transform="translate(-15.367389,363.74272)">
       <rect
          ry="26"
          rx="0"
@@ -1186,30 +1174,30 @@
     </g>
     <path
        id="path4294-0-4-9"
-       d="m 167.3458,724.56201 c 120.70448,-39.11568 286.07487,-38.13996 381.66983,-5.79465"
+       d="m 167.3458,740.56201 c 120.70448,-39.11568 286.07487,-38.13996 381.66983,-5.79465"
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotS);marker-end:url(#TriangleOutM)"
        sodipodi:nodetypes="cc" />
     <path
        id="path4294-0-4-2-5"
-       d="m 555.58738,763.96563 c -90.28937,32.81405 -296.63352,34.55316 -387.85974,4.63572"
+       d="m 555.58738,779.96563 c -90.28937,32.81405 -296.63352,34.55316 -387.85974,4.63572"
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotS);marker-end:url(#TriangleOutM)"
        sodipodi:nodetypes="cc" />
     <text
        sodipodi:linespacing="100%"
        id="text4286-8-3-0-2-5"
-       y="649.28583"
+       y="659.28583"
        x="375.37402"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Georgia"
        xml:space="preserve"><tspan
-         y="649.28583"
-         x="377.60254"
+         y="659.28583"
+         x="377.31152"
          sodipodi:role="line"
          id="tspan9287">3.1 The Buyer and the Seller(s) negotiate over the terms of the data delivery contract. </tspan><tspan
-         y="663.28583"
-         x="377.60254"
+         y="675.28583"
+         x="377.31152"
          sodipodi:role="line"
          id="tspan9301">Once negotiation is complete, both the Buyer and Seller(s) digitally sign each </tspan><tspan
-         y="677.28583"
+         y="691.28583"
          x="375.37402"
          sodipodi:role="line"
          id="tspan9305">contract section with the agreed-upon terms</tspan></text>
